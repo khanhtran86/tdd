@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.Text.RegularExpressions;
+using System;
 namespace PrimeService;
 
 public class PrimeService
@@ -10,6 +11,21 @@ public class PrimeService
         {
             return false;
         }
+        /*
+        else
+        {
+            bool result = true;
+            for(int i=2; i<=candidate/2; i++)
+            {
+                if(candidate%2==0)
+                {
+                    result = false;
+                    break;
+                }
+            }
+            return result;
+        }*/
         return true;
+        
     }
 }
