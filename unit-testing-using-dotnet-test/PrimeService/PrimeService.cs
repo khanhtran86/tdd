@@ -11,7 +11,6 @@ public class PrimeService
         {
             return false;
         }
-        /*
         else
         {
             bool result = true;
@@ -24,8 +23,6 @@ public class PrimeService
                 }
             }
             return result;
-        }*/
-        return true;
-        
+        }
     }
 }
