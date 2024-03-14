@@ -23,6 +23,6 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore unit-testing-using-dotnet-test
     - name: Build
-      run: dotnet build --no-restore
+      run: dotnet build unit-testing-using-dotnet-test --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test unit-testing-using-dotnet-test --no-build --verbosity normal
