@@ -1,0 +1,11 @@
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net7.0\PrimeService.deps.json
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net7.0\PrimeService.dll
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\bin\Debug\net7.0\PrimeService.pdb
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net7.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net7.0\PrimeService.AssemblyInfoInputs.cache
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net7.0\PrimeService.AssemblyInfo.cs
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net7.0\PrimeService.csproj.CoreCompileInputs.cache
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net7.0\PrimeService.dll
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net7.0\refint\PrimeService.dll
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net7.0\PrimeService.pdb
+D:\irapp-v3\tdd\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net7.0\ref\PrimeService.dll
