@@ -20,7 +20,7 @@ public class UnitTest1
 
         bool result = primeService.IsPrime(4);
 
-        Assert.False(result, "1 should not be prime");
+        Assert.False(result, "4 should not be prime");
     }
 
     [Fact]
@@ -30,6 +30,6 @@ public class UnitTest1
 
         bool result = primeService.IsPrime(7);
 
-        Assert.False(result, "1 should not be prime");
+        Assert.False(result, "7 should not be prime");
     }
 }
