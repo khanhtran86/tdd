@@ -1,7 +1,7 @@
 using Xunit;
 namespace PrimeService.Tests;
 
-public class UnitTest1
+public class PrimeServiceTest
 {
     [Fact]
     public void IsPrime_InputIs1_ReturnFalse()
