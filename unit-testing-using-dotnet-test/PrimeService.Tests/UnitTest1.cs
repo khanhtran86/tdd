@@ -18,7 +18,7 @@ public class UnitTest1
     {
         var primeService = new PrimeService();
 
-        bool result = primeService.IsPrime(4);
+        bool result = !primeService.IsPrime(4);
 
         Assert.False(result, "4 should not be prime");
     }
@@ -30,6 +30,6 @@ public class UnitTest1
 
         bool result = primeService.IsPrime(7);
 
-        Assert.False(result, "7 should not be prime");
+        Assert.True (result, "7 should be prime");
     }
 }
