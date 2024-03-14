@@ -12,4 +12,14 @@ public class UnitTest1
 
         Assert.False(result, "1 should not be prime");
     }
+
+    [Fact]
+    public void IsPrime_InputIs4_ReturnFalse()
+    {
+        var primeService = new PrimeService();
+
+        bool result = primeService.IsPrime(4);
+
+        Assert.False(result, "1 should not be prime");
+    }
 }
